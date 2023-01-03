@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.86b6fb42.css",
-    "main.js": "/static/js/main.8f90f6f3.js",
-    "static/js/787.13cee568.chunk.js": "/static/js/787.13cee568.chunk.js",
-    "static/media/pexels.jpg": "/static/media/pexels.d82d4ce91a7ef99cadaf.jpg",
-    "static/media/Laptop Image .png": "/static/media/Laptop Image .e76e1e47704455ee5dfb.png",
-    "static/media/Rectangle 98 (2).png": "/static/media/Rectangle 98 (2).48ef1bf1a0d30b7b3fc2.png",
-    "static/media/1000.png": "/static/media/1000.e1df881c975d941c691e.png",
-    "static/media/Rectangle 98 (1).png": "/static/media/Rectangle 98 (1).3b2c958e5fe2d1f9b035.png",
-    "static/media/Rectangle 98.png": "/static/media/Rectangle 98.14886d520eab89996621.png",
-    "index.html": "/index.html",
-    "main.86b6fb42.css.map": "/static/css/main.86b6fb42.css.map",
-    "main.8f90f6f3.js.map": "/static/js/main.8f90f6f3.js.map",
-    "787.13cee568.chunk.js.map": "/static/js/787.13cee568.chunk.js.map"
+    "main.css": "/ui-design-homepage/static/css/main.86b6fb42.css",
+    "main.js": "/ui-design-homepage/static/js/main.a1e23fd2.js",
+    "static/js/787.13cee568.chunk.js": "/ui-design-homepage/static/js/787.13cee568.chunk.js",
+    "static/media/pexels.jpg": "/ui-design-homepage/static/media/pexels.d82d4ce91a7ef99cadaf.jpg",
+    "static/media/Laptop Image .png": "/ui-design-homepage/static/media/Laptop Image .e76e1e47704455ee5dfb.png",
+    "static/media/Rectangle 98 (2).png": "/ui-design-homepage/static/media/Rectangle 98 (2).48ef1bf1a0d30b7b3fc2.png",
+    "static/media/1000.png": "/ui-design-homepage/static/media/1000.e1df881c975d941c691e.png",
+    "static/media/Rectangle 98 (1).png": "/ui-design-homepage/static/media/Rectangle 98 (1).3b2c958e5fe2d1f9b035.png",
+    "static/media/Rectangle 98.png": "/ui-design-homepage/static/media/Rectangle 98.14886d520eab89996621.png",
+    "index.html": "/ui-design-homepage/index.html",
+    "main.86b6fb42.css.map": "/ui-design-homepage/static/css/main.86b6fb42.css.map",
+    "main.a1e23fd2.js.map": "/ui-design-homepage/static/js/main.a1e23fd2.js.map",
+    "787.13cee568.chunk.js.map": "/ui-design-homepage/static/js/787.13cee568.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.86b6fb42.css",
-    "static/js/main.8f90f6f3.js"
+    "static/js/main.a1e23fd2.js"
   ]
 }
